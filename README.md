@@ -8,15 +8,8 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQEIKHTPQ_LkQQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1713929319465?e=2147483647&v=beta&t=W8ViJm2cdb48QmUKGw3xcm1tmkfncM58ceh0mRR_cQ0" width="100px" height="100px" />
+ 
 </div>
 <!---
 HasiniChekuri/HasiniChekuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
